@@ -1,0 +1,12 @@
+.fpButton {
+    background-color: #003580;
+    color: white;
+    border: none;
+    padding: 3px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.fpRating {
+    font-size: 14px;
+}

@@ -1,0 +1,15 @@
+.active {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.headerIcon {
+    color: lightgray;
+}
+
+.headerSearchText {
+    color: lightgray;
+    cursor: pointer;
+}
